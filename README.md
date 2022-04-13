@@ -1,6 +1,6 @@
 love2d.cs is love2d in monogame, easy to use api
 ## api
-[see api here](wiki)
+[see api here](https://github.com/oblerion/love2d.cs/wiki)
 ## fast start
 copy love2d.cs in your monogame project<br>
 edit Game1.cs like this, remplace testing to your project's namespace
