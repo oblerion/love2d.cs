@@ -1,4 +1,4 @@
-love2d.cs is love2d in monogame, easy to use api without complex monogame use 
+love2d.cs is love2d in monogame, easy to use api
 
 ## fast start
 copy love2d.cs in your monogame project<br>
