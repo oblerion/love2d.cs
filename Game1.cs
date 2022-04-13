@@ -1,4 +1,4 @@
-﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using love2d;
@@ -8,16 +8,15 @@ namespace testing
     public class Game1 : love
     {
         Texture2D test;
-        SpriteFont font;
         public Game1()
         {
 
         }
         public override void load()
         {
-            this.set_mode(800,480);
+            this.window_setmode(800,480);
             test = graphics_newimage("persos");
-            font = graphics_newfont("font");
+            graphics_setfont(graphics_newfont("font"));
         }
         public override void update(GameTime gameTime)
         {
@@ -40,5 +39,3 @@ namespace testing
     } 
  
 }
-
-
