@@ -33,7 +33,7 @@ namespace testing
             graphics_rect("line",13,153,10,100);
             graphics_draw(test,1,123,124);
             graphics_setColor(Color.White);
-            graphics_print(font,"Hhello0978756",153,123,0,5);
+            graphics_print("Hhello0978756",153,123,0,5);
 
         }
     } 
