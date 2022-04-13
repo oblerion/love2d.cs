@@ -1,7 +1,7 @@
 # love2d.cs
 love2d framework for c# monogame  
 
-## use it
+## fast start
 copy love2d.cs in your monogame project<br>
 edit Game1.cs like this, remplace testing to your project's namespace
 ```cs
