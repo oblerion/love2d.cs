@@ -1,0 +1,14 @@
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/testing
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/testing.dll
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/testing.deps.json
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/testing.runtimeconfig.json
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/testing.pdb
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/MonoGame.Framework.dll
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/linux-x64/native/libopenal.so.1
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/osx/native/libSDL2-2.0.0.dylib
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/osx/native/libopenal.1.dylib
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/win-x64/native/SDL2.dll
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/win-x64/native/soft_oal.dll
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/win-x86/native/SDL2.dll
+/home/desnot/GD/c#/testing/bin/Debug/netcoreapp3.1/publish/runtimes/win-x86/native/soft_oal.dll
